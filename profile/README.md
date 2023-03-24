@@ -6,21 +6,21 @@ SentryChain combines the features of three popular security audit tools: Slither
 
 ## 🔧 Tools
 
-### [Slither](https://github.com/crytic/slither) 👀
+### Slither 👀
 
-Slither is a static analysis tool that can detect a wide range of security vulnerabilities in smart contracts.
+[Slither](https://github.com/crytic/slither) is a static analysis tool that can detect a wide range of security vulnerabilities in smart contracts.
 
 It has a simple command-line interface and can be easily integrated into a development workflow.
 
-### [Mythril](https://github.com/ConsenSys/mythril) 🔍
+### Mythril 🔍
 
-Mythril is a symbolic execution tool that can detect complex security vulnerabilities in smart contracts.
+[Mythril](https://github.com/ConsenSys/mythril) is a symbolic execution tool that can detect complex security vulnerabilities in smart contracts.
 
 It can be used to identify vulnerabilities such as reentrancy attacks and can be integrated with other tools such as Slither.
 
-### [Securify](https://github.com/eth-sri/securify2) 🔒
+### Securify 🔒
 
-Securify is an automated security scanner that can identify a wide range of security vulnerabilities in smart contracts.
+[Securify](https://github.com/eth-sri/securify2) is an automated security scanner that can identify a wide range of security vulnerabilities in smart contracts.
 
 It has a user-friendly web interface and can be easily integrated into a development workflow.
 
